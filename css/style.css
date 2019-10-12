@@ -451,7 +451,7 @@ main {
 
 
 .contact-form input[type=text],
-select,
+select,.contact-form input[type=email],
 textarea {
     width: 100%;
     padding: 10px;
