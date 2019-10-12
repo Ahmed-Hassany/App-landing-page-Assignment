@@ -81,16 +81,20 @@ header li {
 header li a:hover,
 header .menu-btn:hover {
     background-color: #f4f4f4;
+    color: #c0780b;
+    border-bottom: 3px solid #f2ac20;
 }
 
 header .menu-btn {
     display: none;
 }
 
+/*
 .active {
     color: #c0780b;
     border-bottom: 3px solid #f2ac20;
 }
+*/
 
 .logo {
     margin-top: 1rem;
